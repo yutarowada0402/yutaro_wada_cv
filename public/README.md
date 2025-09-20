@@ -240,8 +240,8 @@
 
 **習得スキル**
 - Python（標準機能、pandas、numpy、matplotlib、seaborn、scikit-learn、statsmodels、Optuna等）によるデータ集計・分析・モデル実装
-    - SIGNATE 第31回_Beginner限定コンペ：4位（154名中）
-    - SIGNATE SOTA Challenge：銅メダル（上位10％）、称号「Advanced」獲得
+- SIGNATE 第31回_Beginner限定コンペ：4位（154名中）
+- SIGNATE SOTA Challenge：銅メダル（上位10％）、称号「Advanced」獲得
 - SQLによるデータ取得・加工・集計
 - Tableauによるデータ接続・可視化・EDA
 
