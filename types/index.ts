@@ -14,6 +14,7 @@ export interface SectionItem {
 
 export interface DownloadButtonProps {
   type: 'markdown' | 'pdf';
+  lang: 'ja' | 'en';
   isLoading: boolean;
   onClick: () => void;
 }
